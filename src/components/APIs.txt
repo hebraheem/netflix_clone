@@ -1,0 +1,3 @@
+api key = 36f233ae7e1adb168a8c7535c14d7778
+
+deploy link = https://netflix-clone-5100e.web.app/
